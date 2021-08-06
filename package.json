@@ -1,0 +1,24 @@
+{
+  "name": "@quentystudios/cmdr",
+  "version": "1.8.4-quenty.1",
+  "description": "Fork of cmdr for npm consumption",
+  "files": [
+    "Cmdr",
+    "default.project.json"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quentystudios/Cmdr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quentystudios/Cmdr/issues"
+  },
+  "homepage": "https://github.com/quentystudios/Cmdr#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
