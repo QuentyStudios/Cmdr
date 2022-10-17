@@ -1,6 +1,6 @@
 {
   "name": "@quentystudios/cmdr",
-  "version": "1.8.4-quenty.1",
+  "version": "1.8.4-quenty.2",
   "description": "Fork of cmdr for npm consumption",
   "files": [
     "Cmdr",
